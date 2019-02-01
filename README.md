@@ -52,7 +52,7 @@ $ php bin/console doctrine:database:create
  $ php bin/console doctrine:schema:update --force
 ```
 
-#### Run the application with
+##### Run the application with
 
 ```bash
 php bin/console server:run
